@@ -13,7 +13,7 @@ const LoginPage = () => {
       <h2>Create a new account</h2>
 
       <GoogleLogin
-        clientId="442888129617-vlv786stuk4nkilt6faspo2ma9g68kqk.apps.googleusercontent.com"
+        clientId="changed the id after uploading"
         buttonText="Login with Google"
         onSuccess={responseGoogle}
         onFailure={responseGoogle}
